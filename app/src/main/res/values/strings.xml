@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="login_button">LogIn Button</string>
+    <string name="save_to_db">save to DB</string>
+    <string name="capture">Capture</string>
+    <string name="custom_login">Custom LogIn</string>
+    <string name="please_enter_email">Please Enter Email</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="log_in">Log In</string>
+</resources>
